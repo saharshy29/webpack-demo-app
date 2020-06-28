@@ -1,7 +1,7 @@
 {
   "name": "webpack-demo-app",
   "version": "1.0.0",
-  "description": "This repo is soley for me to test [webpack](https://webpack.js.org).",
+  "description": "This repo is solely for me to test [webpack](https://webpack.js.org).",
   "main": "index.js",
   "scripts": {
     "start": "webpack"
